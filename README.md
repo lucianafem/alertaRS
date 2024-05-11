@@ -39,9 +39,12 @@ O projeto foi desenvolvido baseado nos critérios dados durante o curso de Imers
 <p align="justify">
 O AlertaRS, sistema inovador de alerta à população do Rio Grande do Sul sobre inundações, baseia-se em uma metodologia robusta e criativa que combina inteligência artificial, simulação de dados e coleta de informações em tempo real (Figura 1 a e Figura 1 b). Os valores de velocidade ultrassônica, supostamente medido em loco na barragem, por exemplo, devem estar entre os valores mostrados na Tabela 1.</p>
 
-
+<div align="center">
+      
 ![image](https://github.com/lucianafem/alertaRS/assets/62123799/c9c65ccc-fdde-40a8-9edf-147734b42211)
 ![image](https://github.com/lucianafem/alertaRS/assets/62123799/5754aec6-308b-4caf-bca2-6665d5354cc2)
+
+</div>
       
 
 Fig.1: a) Barragem, b) medição em loco da velocidade da onda ultrassônica no concreto da barragem. Fotos geradas por inteligência artificial.
@@ -81,10 +84,12 @@ Com base na classificação final, o AlertaRS emite uma recomendação (Tabela 4
 
 ![image](https://github.com/lucianafem/alertaRS/assets/62123799/a8c9638d-e1b3-4fb4-ab4d-07426a2bf52d)
 
-
+<div align="center">
+      
    ![image](https://github.com/lucianafem/alertaRS/assets/62123799/40d1651f-6b69-424f-8131-fe9ab220fdce)
    ![image](https://github.com/lucianafem/alertaRS/assets/62123799/bbdf2ad2-f71c-4865-8dbc-052641862cd4)
 
+</div>
 
 Fig. 2: a) e b) Aa classificações geradas fornecem recomendações para a população. Fotos geradas por inteligência artificial.
 
