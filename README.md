@@ -24,15 +24,16 @@ O Rio Grande do Sul, conhecido por suas belezas naturais e rica cultura, enfrent
 O projeto foi desenvolvido baseado nos critérios dados durante o curso de Imersão IA, os quais foram:</p>
 
 <p align="justify">
-•	Inspirado na Imersão IA: O projeto AlertaRS foi concebido durante o curso Imersão IA, uma parceria entre Alura, Google e FIAP. Essa iniciativa busca democratizar o acesso ao conhecimento em inteligência artificial, capacitando profissionais para desenvolver soluções inovadoras e impactantes para os mais diversos desafios da sociedade. Dessa forma, o projeto foi desenvolvido dentro do ambiente do Google Colab, utilizando a IA generativa do Google e inserindo a Google API Key no sistema.</p>
-<p align="justify">
-•	Criatividade: O projeto AlertaRS se destaca pela sua criatividade na simulação de dados. Através de estudos de engenharia, o projeto busca em fontes confiáveis o valor da velocidade ultrassônica em concretos, um parâmetro crucial para avaliar a integridade de estruturas sob estresse hídrico. Essa informação, combinada com dados climáticos em tempo real e modelos de inteligência artificial, permite a criação de um sistema de alerta preciso e eficaz.</p>
-<p align="justify">
-•	Aplicação a sociedade, um projeto para o bem: A criatividade do projeto se estende à sua utilidade. O sistema AlertaRS não apenas informa a população sobre a iminência de possíveis alagamentos e inundações, mas também fornece o contato de hospitais, abrigos e ONG’s em caso de necessidade.</p>
-<p align="justify">
-•	Eficácia: A simulação de dados, utilizando estudos de engenharia e valores da velocidade ultrassônica em concretos, poderiam gerar maior confiabilidade ao sistema de alerta. A precisão dos modelos de inteligência artificial e a constante atualização de dados climáticos em tempo real garantem a eficácia do sistema na identificação de riscos e na emissão de alertas oportunos.</p>
-<p align="justify">
-•	Um compromisso com a ética: O projeto AlertaRS se baseia em princípios éticos sólidos. O resultado final não envolve nenhum tipo de discurso violento, preconceituoso ou de ódio. O objetivo principal é proteger a vida e o bem-estar da população do Rio Grande do Sul, promovendo a segurança e o desenvolvimento sustentável da região.</p>
+
+- **Inspirado na Imersão IA** : O projeto AlertaRS foi concebido durante o curso Imersão IA, uma parceria entre Alura, Google e FIAP. Essa iniciativa busca democratizar o acesso ao conhecimento em inteligência artificial, capacitando profissionais para desenvolver soluções inovadoras e impactantes para os mais diversos desafios da sociedade. Dessa forma, o projeto foi desenvolvido dentro do ambiente do Google Colab, utilizando a IA generativa do Google e inserindo a Google API Key no sistema.
+
+- **Criatividade** : O projeto AlertaRS se destaca pela sua criatividade na simulação de dados. Através de estudos de engenharia, o projeto busca em fontes confiáveis o valor da velocidade ultrassônica em concretos, um parâmetro crucial para avaliar a integridade de estruturas sob estresse hídrico. Essa informação, combinada com dados climáticos em tempo real e modelos de inteligência artificial, permite a criação de um sistema de alerta preciso e eficaz.
+
+- **Aplicação a sociedade, um projeto para o bem** : A criatividade do projeto se estende à sua utilidade. O sistema AlertaRS não apenas informa a população sobre a iminência de possíveis alagamentos e inundações, mas também fornece o contato de hospitais, abrigos e ONG’s em caso de necessidade.
+
+- **Eficácia:** A simulação de dados, utilizando estudos de engenharia e valores da velocidade ultrassônica em concretos, poderiam gerar maior confiabilidade ao sistema de alerta. A precisão dos modelos de inteligência artificial e a constante atualização de dados climáticos em tempo real garantem a eficácia do sistema na identificação de riscos e na emissão de alertas oportunos.
+
+- **Um compromisso com a ética**: O projeto AlertaRS se baseia em princípios éticos sólidos. O resultado final não envolve nenhum tipo de discurso violento, preconceituoso ou de ódio. O objetivo principal é proteger a vida e o bem-estar da população do Rio Grande do Sul, promovendo a segurança das pessoas nessa região.
 
 ## 2 – Metodologia
 <p align="justify">
