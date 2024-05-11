@@ -1,6 +1,6 @@
-Para usar o programa não se esqueça de inserir o banco de dados na pasta raiz do Google Colab<p align="center">
-**AlertaRS: Protegendo o Rio Grande do Sul contra Inundações com Inteligência Artificial**</p>
-<p align="justify">
+
+# AlertaRS: Protegendo o Rio Grande do Sul contra Inundações com Inteligência Artificial
+
 Projeto desenvolvido com uso de IA visando alertar a população do Rio Grande do Sul em caso de enchetes e alagamentos, além de fornecer o contato de hospitais, abrigos e ONG'S para que a população se sinta mais segura e protegida. Esse projeto foi desenvolvido para participar do desafio do curso de Imersão IA em parceria da Alura, Google e FIAP.</p>
 
 <div align="center">
@@ -10,14 +10,15 @@ Projeto desenvolvido com uso de IA visando alertar a população do Rio Grande d
 
 </div>
 
-Autora: Luciana Claudia Martins Ferreira Diogenes
+<div align="center">
+      Autora: Luciana Claudia Martins Ferreira Diogenes
+</div>
 
-
-# Resumo: 
+## Resumo: 
 <p align="justify">
 O Rio Grande do Sul, conhecido por suas belezas naturais e rica cultura, enfrenta um desafio crescente: as inundações. Eventos climáticos extremos, intensificados pelas mudanças climáticas, colocam em risco comunidades, infraestrutura e a própria vida. É nesse contexto que surge o projeto AlertaRS - Alerta Rio Grande do Sul, um sistema inovador que utiliza inteligência artificial (IA) para alertar a população sobre a situação climática e prevenir desastres, salvando vidas e minimizando danos. Além disso, quando existir um risco alto e muito alto de enchentes e alagamentos, o programa pode fornecer o endereço e telefone de hospitais, pontos de abrigo e ONG’s para que a população possa procurar em caso de necessidade.</p>
 
-# 1 – Introdução
+## 1 – Introdução
 
 <p align="justify">
 O projeto foi desenvolvido baseado nos critérios dados durante o curso de Imersão IA, os quais foram:</p>
@@ -33,7 +34,7 @@ O projeto foi desenvolvido baseado nos critérios dados durante o curso de Imers
 <p align="justify">
 •	Um compromisso com a ética: O projeto AlertaRS se baseia em princípios éticos sólidos. O resultado final não envolve nenhum tipo de discurso violento, preconceituoso ou de ódio. O objetivo principal é proteger a vida e o bem-estar da população do Rio Grande do Sul, promovendo a segurança e o desenvolvimento sustentável da região.</p>
 
-# 2 – Metodologia
+## 2 – Metodologia
 <p align="justify">
 O AlertaRS, sistema inovador de alerta à população do Rio Grande do Sul sobre inundações, baseia-se em uma metodologia robusta e criativa que combina inteligência artificial, simulação de dados e coleta de informações em tempo real (Figura 1 a e Figura 1 b). Os valores de velocidade ultrassônica, supostamente medido em loco na barragem, por exemplo, devem estar entre os valores mostrados na Tabela 1.</p>
 
@@ -54,13 +55,13 @@ Para alimentar o modelo de inteligência artificial, foram gerados cem dados. Ca
 <p align="justify">
 O modelo do AlertaRS é uma rede neural artificial contendo quatro camadas. Cada camada possui um número específico de neurônios:
 
-•	Camada 1: 8 neurônios
+- Camada 1: 8 neurônios
 
-•	Camada 2: 10 neurônios
+- Camada 2: 10 neurônios
 
-•	Camada 3: 10 neurônios
+- Camada 3: 10 neurônios
 
-•	Camada 4 (de saída): 6 neurônios
+- Camada 4 (de saída): 6 neurônios
 
 Essa estrutura permite que a rede aprenda padrões complexos nas simulações, mapeando diferentes combinações de variáveis para a classificação do risco de inundação.
 
@@ -86,7 +87,7 @@ Com base na classificação final, o AlertaRS emite uma recomendação (Tabela 4
 
 Fig. 2: a) e b) Aa classificações geradas fornecem recomendações para a população. Fotos geradas por inteligência artificial.
 
-# 3 – Resultados
+## 3 – Resultados
 
 <p align="justify">
 O treinamento com a rede neural forneceu a matriz de confusão mostrada na figura 3. A soma de todos os elementos são os 35 dados de treinamentos do total de 100. </p>
@@ -189,7 +190,7 @@ Cidade: Porto Alegre
 - Telefone: (51) 3289-2764
 
 
-# 4 - Conclusões
+## 4 - Conclusões
 
 <p align="justify">
 O projeto desenvolvido foi capaz de prever os riscos devido as condições meteorológicas, níveis de água do Rio Guaíba e a qualidade do concreto alertando a população sob medidas a serem tomadas e em caso de risco muito alto, solicitando a divulgação em órgãos em todos os meios de comunicação, evitando com que as pessoas possam sofrer maiores dados, chegando até a perderem suas vidas.</p>
@@ -200,11 +201,11 @@ O AlertaRS é um exemplo inspirador de como a criatividade, a utilidade, a efic�
 <p align="justify">
 O AlertaRS está em constante evolução. Novos dados e simulações são continuamente integrados ao sistema, aprimorando o modelo de inteligência artificial e aumentando sua precisão.</p>
 
-# 5 – Referências Bibliográficas
+## 5 – Referências Bibliográficas
 
 WHITEHURST, E. A. Evaluation of concrete properties from sonic test. Detroit American Concrete Institute, 1966. Acesso em: 11 de maio de 2024, Disponível em: < https://www.ajol.info/index.php/njt/article/view/123556 >
 
-# 6 - Agradecimentos
+## 6 - Agradecimentos
 
 <p align="justify">Os agradecimentos especiais são para os professores desse curso: Paulo Silveira, Luciano Martins, Ana Raquel e Fabrício Carraro os quais agregaram muito conhecimento para a construção desse projeto. </p>
 <p align="justify">
